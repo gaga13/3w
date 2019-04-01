@@ -1,0 +1,10 @@
+사용 프로그램 버전 정보
+
+apache-tomcat-8.0.39
+mybatis 3.4.6
+jdk1.8.0_181
+
+STS
+
+베이스 패키지 네임 ->global.sesoc.www
+github url-> https://github.com/gaga13/3w
